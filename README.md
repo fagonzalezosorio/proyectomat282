@@ -1,5 +1,5 @@
-# Proyecto MAT282: title
+# Proyecto MAT282: Sistemas de recomendacion
 
 ## Nombres: Antonia Bravo - Franco González
-## especialista: Sebastián Torres
+## Especialista: Sebastián Torres
 ## Profesor: Alfredo Alegria
