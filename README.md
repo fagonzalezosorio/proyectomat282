@@ -9,7 +9,7 @@
 
 # Proyecto MAT282: Sistemas de recomendación
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/francogonzalezosorio/mat281_proyectomat282/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/francogonzalezosorio/proyectomat282/master?urlpath=lab)
 
 ## Nombres: Antonia Bravo - Franco González
 ## Especialista: Sebastián Torres
