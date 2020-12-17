@@ -15,5 +15,6 @@ dependencies:
   - scipy
   - scikit-image
   - scikit-learn=0.23
+  - implicit
   - altair=4
   - altair_saver
